@@ -1,2 +1,3 @@
 # hello-world
-Obligatory first repository
+
+Hiya!  I'm following a guide to set up a first repository.
